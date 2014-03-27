@@ -1,0 +1,14 @@
+Class 1:Use button to controll LED
+Class 2:Controll six Leds by digital output pins
+Class 3:Use various of LEDs to create car traffic light and pedestrian traffic light
+Class 4:Use potentiometer to controll the LED on PWN pin
+Class 5:Use photocell to control the blinking rate of an LED 
+Class 6:Use potentiometer to controll the servo motor
+Class 7:Use tilt switch to controll an LED
+Class 8:Use NPN transistors to create touch switch
+Class 9:Use thermistor to controll blink of an LED
+Class 10:Make an old school buzzer game 
+Class 11:Use two button to controll servo 
+class 12:Controll a servo position by voltage from 0 V to 5 V
+class 13:A simple loop sequencer
+class 14:Simple RGB LED on an ARDUINO UNO
